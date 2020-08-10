@@ -1,7 +1,7 @@
 {
   "name": "svg-dev",
   "version": "1.0.0",
-  "description": "SVG development playground, for testing animation effects in web browsers",
+  "description": "SVG development playground, for testing animation, filter, and gradient effects in web browsers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
